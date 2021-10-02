@@ -16,14 +16,16 @@ header {
     color: #ffffff;
 }
 
+/* Remove header h1 .seo and add color to h1 */
 header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-header h1 .seo {
     color: #d9dcd6;
 }
+
+/* header h1 .seo {
+    color: #d9dcd6;
+} */
 
 /* Change all Div to Nav */
 header nav {
