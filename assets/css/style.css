@@ -11,6 +11,7 @@ body {
 }
 
 /* Changed from class selector to tag selector by removing . from beginning */
+/* Beginning of Header CSS */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +47,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* End of Header CSS */
 
 a {
     color: #ffffff;
@@ -56,6 +58,7 @@ p {
     font-size: 16px;
 }
 
+/* Section Hero Class */
 .hero {
     height: 800px;
     width: 100%;
@@ -80,7 +83,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Beginning of Benefits CSS */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -107,7 +110,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* End of Benefits CSS */
+/* Beginning of Articles CSS */
 .content2 {
     margin-bottom: 20px;
     padding: 50px;
@@ -125,7 +129,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* End of Articles CSS */
+/* Beginning of Footer CSS */
 footer {
     padding: 30px;
     clear: both;
@@ -136,3 +141,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* End of Footer CSS */
