@@ -9,6 +9,6 @@ Optimizing the Search Engine Optimization Platform
 
 ## Links
 
-Repo: [Repo](#https://github.com/andrewyu22/SEO_Project)
+Repo: https://github.com/andrewyu22/SEO_Project
 
-Link: [URL](#https://andrewyu22.github.io/SEO_Project/)
+Link: https://andrewyu22.github.io/SEO_Project/
